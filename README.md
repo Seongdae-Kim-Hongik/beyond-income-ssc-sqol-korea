@@ -1,5 +1,7 @@
 # Beyond Income: Subjective Social Class, Psychological Resources, and Quality of Life in South Korea During the COVID-19 Pandemic
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20960562.svg)](https://doi.org/10.5281/zenodo.20960562)
+
 Analysis code to reproduce all results and figures.
 
 ## Contents
