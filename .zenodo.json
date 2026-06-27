@@ -1,0 +1,12 @@
+{
+  "title": "Analysis code for \"Beyond Income: Subjective Social Class, Psychological Resources, and Quality of Life in South Korea During the COVID-19 Pandemic\"",
+  "upload_type": "software",
+  "description": "R and Python code reproducing all analyses (structural equation models, competing-model comparison, and robustness checks including common-method-variance controls) and figures for the study. The underlying microdata are not redistributed; they are publicly available from the Korea Social Science Data Archive (KOSSDA, dataset A1-2021-0003). No personally identifiable information is included.",
+  "license": "MIT",
+  "creators": [
+    {"name": "Kim, Seongdae", "affiliation": "Hongik University"},
+    {"name": "Kim, Myoungsuk", "affiliation": "Korea University"},
+    {"name": "Ha, Chunghun", "affiliation": "Hongik University"}
+  ],
+  "keywords": ["subjective well-being", "subjective social class", "structural equation modeling", "common method variance", "South Korea", "reproducibility"]
+}
